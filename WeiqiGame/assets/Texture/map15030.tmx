@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="152" height="32" tilewidth="50" tileheight="50">
+ <tileset firstgid="1" name="map" tilewidth="50" tileheight="50">
+  <image source="map.jpg" width="160" height="263"/>
+ </tileset>
+ <layer name="ground" width="152" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAMBKEb3r/muugECaumqqqqqqqqqqqqqqqqqqqqqqqqvjyNR0wB
+  </data>
+ </layer>
+ <layer name="barrier" width="152" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt3LEJAEAMw8CU2X/in0IEnjvwBqq9M7Nm4aCgL0r6oqQvSvqipC9K+qKkL0r6oqQvSvqipC9K+qKkL0r6oqQvSvqipC9K+qKkL0r6oqQvSvqipC9K+qKkL0r6oqQvSvqipC9K17899v8evBALYQ==
+  </data>
+ </layer>
+</map>
